@@ -1,0 +1,282 @@
+{
+  "url": "http://newzmaker.com",
+  "title": "Newz",
+  "links": [
+    {
+      "url": "http://newzmaker.com/evgeny/56",
+      "title": "Hide Park party",
+      "links": [
+        {
+          "url": "http://newzmaker.com/evgeny",
+          "title": "Newz: evgeny's stories",
+          "links": [
+            {
+              "url": "http://newzmaker.com/evgeny/56",
+              "title": "Hide Park party"
+            },
+            {
+              "url": "http://newzmaker.com/evgeny/6",
+              "title": "Newz is live",
+              "links": [
+                {
+                  "url": "http://newzmaker.com/evgeny",
+                  "title": "Newz: evgeny's stories"
+                }
+              ]
+            },
+            {
+              "url": "http://newzmaker.com/evgeny/41",
+              "title": "Notting Hill Carnival",
+              "links": [
+                {
+                  "url": "http://newzmaker.com/evgeny",
+                  "title": "Newz: evgeny's stories"
+                }
+              ]
+            },
+            {
+              "url": "http://newzmaker.com/evgeny/20",
+              "title": "Hyde Park walk",
+              "links": [
+                {
+                  "url": "http://newzmaker.com/evgeny",
+                  "title": "Newz: evgeny's stories"
+                }
+              ]
+            },
+            {
+              "url": "http://newzmaker.com/evgeny/14",
+              "title": "Holiday in Torquay",
+              "links": [
+                {
+                  "url": "http://newzmaker.com/evgeny",
+                  "title": "Newz: evgeny's stories"
+                }
+              ]
+            },
+            {
+              "url": "http://newzmaker.com/evgeny/8",
+              "title": "JavaScript Open Day",
+              "links": [
+                {
+                  "url": "http://newzmaker.com/evgeny",
+                  "title": "Newz: evgeny's stories"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/evgeny/6",
+      "title": "Newz is live",
+      "links": [
+        {
+          "url": "http://newzmaker.com/evgeny",
+          "title": "Newz: evgeny's stories"
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/jason/19",
+      "title": "Vacanza in Italia 2015",
+      "links": [
+        {
+          "url": "http://newzmaker.com/jason",
+          "title": "Newz: jason's stories",
+          "links": [
+            {
+              "url": "http://newzmaker.com/jason/19",
+              "title": "Vacanza in Italia 2015"
+            },
+            {
+              "url": "http://newzmaker.com/jason/9",
+              "title": "Microsoft JS Open Day",
+              "links": [
+                {
+                  "url": "http://newzmaker.com/jason",
+                  "title": "Newz: jason's stories"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/glenn/55",
+      "title": "A tech simpletons diary of NodeconfEU 2015",
+      "links": [
+        {
+          "url": "http://newzmaker.com/glenn",
+          "title": "Newz: glenn's stories",
+          "links": [
+            {
+              "url": "http://newzmaker.com/glenn/55",
+              "title": "A tech simpletons diary of NodeconfEU 2015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/stephen/47",
+      "title": "New story",
+      "links": [
+        {
+          "url": "http://newzmaker.com/stephen",
+          "title": "Newz: stephen's stories",
+          "links": [
+            {
+              "url": "http://newzmaker.com/stephen/47",
+              "title": "New story"
+            },
+            {
+              "url": "http://newzmaker.com/stephen/46",
+              "title": "Senior developer travels to nodeconf",
+              "links": [
+                {
+                  "url": "http://newzmaker.com/stephen",
+                  "title": "Newz: stephen's stories"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/stephen/46",
+      "title": "Senior developer travels to nodeconf",
+      "links": [
+        {
+          "url": "http://newzmaker.com/stephen",
+          "title": "Newz: stephen's stories"
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/evgeny/41",
+      "title": "Notting Hill Carnival",
+      "links": [
+        {
+          "url": "http://newzmaker.com/evgeny",
+          "title": "Newz: evgeny's stories"
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/jonathan/31",
+      "title": "Flash",
+      "links": [
+        {
+          "url": "http://newzmaker.com/jonathan",
+          "title": "Newz: jonathan's stories",
+          "links": [
+            {
+              "url": "http://newzmaker.com/jonathan/31",
+              "title": "Flash"
+            },
+            {
+              "url": "http://newzmaker.com/jonathan/30",
+              "title": "The carpet bag of Dr Emilerheart",
+              "links": [
+                {
+                  "url": "http://newzmaker.com/jonathan",
+                  "title": "Newz: jonathan's stories"
+                }
+              ]
+            },
+            {
+              "url": "http://newzmaker.com/jonathan/29",
+              "title": "Life is a Butterfly's Dream",
+              "links": [
+                {
+                  "url": "http://newzmaker.com/jonathan",
+                  "title": "Newz: jonathan's stories"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/jonathan/30",
+      "title": "The carpet bag of Dr Emilerheart",
+      "links": [
+        {
+          "url": "http://newzmaker.com/jonathan",
+          "title": "Newz: jonathan's stories"
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/jonathan/29",
+      "title": "Life is a Butterfly's Dream",
+      "links": [
+        {
+          "url": "http://newzmaker.com/jonathan",
+          "title": "Newz: jonathan's stories"
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/mariya/25",
+      "title": "Москва летом прекрасна",
+      "links": [
+        {
+          "url": "http://newzmaker.com/mariya",
+          "title": "Newz: mariya's stories",
+          "links": [
+            {
+              "url": "http://newzmaker.com/mariya/25",
+              "title": "Москва летом прекрасна"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/evgeny/20",
+      "title": "Hyde Park walk",
+      "links": [
+        {
+          "url": "http://newzmaker.com/evgeny",
+          "title": "Newz: evgeny's stories"
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/evgeny/14",
+      "title": "Holiday in Torquay",
+      "links": [
+        {
+          "url": "http://newzmaker.com/evgeny",
+          "title": "Newz: evgeny's stories"
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/jason/9",
+      "title": "Microsoft JS Open Day",
+      "links": [
+        {
+          "url": "http://newzmaker.com/jason",
+          "title": "Newz: jason's stories"
+        }
+      ]
+    },
+    {
+      "url": "http://newzmaker.com/evgeny/8",
+      "title": "JavaScript Open Day",
+      "links": [
+        {
+          "url": "http://newzmaker.com/evgeny",
+          "title": "Newz: evgeny's stories"
+        }
+      ]
+    }
+  ]
+}

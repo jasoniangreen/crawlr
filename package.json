@@ -1,0 +1,15 @@
+{
+  "name": "crawlr",
+  "version": "1.0.0",
+  "description": "A simple node web crawler",
+  "main": "crawlr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Green",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.2",
+    "request": "^2.63.0"
+  }
+}

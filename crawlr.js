@@ -19,16 +19,20 @@ function traversePage(url, page, cb) {
         var html = response.body;
         page.title = getTitle(html);
         page.links = getRelativeAnchors(html);
-        traversed[url] = page;
+        traversed[url] = page; //To avoid retrieving same page twice
 
         var asyncFuncs = [];
         page.links.forEach(function (link) {
             var fullPath = urlUtil.resolve(domain, link.url);
             var existingLink = traversed[fullPath];
-            if (existingLink) return Object.assign(link, {url: fullPath, title: existingLink.title});            
-            asyncFuncs.push(function (next) {
-                traversePage(fullPath, link, next);
-            });
+            if (existingLink) {
+                // if we've parsed if before, get the title from our cache
+                Object.assign(link, {url: fullPath, title: existingLink.title});
+            } else {
+                asyncFuncs.push(function (next) {
+                    traversePage(fullPath, link, next);
+                });
+            }
         });
         async.series(asyncFuncs, cb);
     });
@@ -44,10 +48,10 @@ function getRelativeAnchors(html) {
 }
 
 function isRelativePath(urlObj) {
-    return urlObj.path 
-            && urlObj.path != '/'
-            && urlObj.path.indexOf('/') === 0 
-            && (!urlObj.host || urlObj.host == domainObj.host);
+    return urlObj.path //There should be a path
+            && urlObj.path != '/' //but not root path
+            && urlObj.path.indexOf('/') === 0 // it should start with slash
+            && (!urlObj.host || urlObj.host == domainObj.host); //or it could be full url of same domain
 }
 
 function getTitle(html) {
